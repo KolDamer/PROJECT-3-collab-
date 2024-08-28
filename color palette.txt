@@ -1,0 +1,5 @@
+green-#66a684
+blackish (titles)-#373e3b
+white-#ffffff
+ash bg-#f9f9f9
+greyfont-##898887

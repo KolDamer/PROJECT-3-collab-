@@ -1,3 +1,4 @@
+
 import React from "react";
 import logo from "../../images/logo.png";
 import headerimage from "../../images/header-image.jpg";
@@ -6,6 +7,7 @@ import pencil from "../../images/icon-pencil.png";
 import camera from "../../images/icon-camera.png";
 import film from "../../images/icon-film.png";
 import bulb from "../../images/light-bulb.png";
+
 
 function Header (){
     return(
